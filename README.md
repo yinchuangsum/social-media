@@ -13,7 +13,7 @@ java -jar demo-0.0.1-SNAPSHOT.jar
 ```
 
 ## API
-### Addition
+### Get friends
 ```
 API: GET /mysocialnetwork/user/:id/friends
 Sample response:
@@ -30,7 +30,7 @@ Sample response:
 ]
 ```
 
-### Subtraction
+### Get movie watched
 ```
 API: GET /mysocialnetwork/user/:id/movies
 Sample response:
