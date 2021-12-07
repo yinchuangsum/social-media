@@ -3,12 +3,12 @@
 ## Starting the application
 ### building the application
 ```
-cd calculator
+cd social-media
 mvn clean install
 ```
 ### run the application
 ```
-cd social-media
+cd target
 java -jar demo-0.0.1-SNAPSHOT.jar
 ```
 
